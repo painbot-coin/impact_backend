@@ -1,0 +1,8 @@
+psycopg2
+fastapi_sqlalchemy
+litellm
+twilio
+fastapi
+uvicorn
+python-dotenv
+sqlalchemy
